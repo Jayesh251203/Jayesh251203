@@ -10,10 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/10791238?v=4"  />
-
-###
-
+## 🛠 Languages, Frameworks & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -42,6 +39,7 @@
 
 ###
 
+## 🌐 Social Platforms
 <div align="left">
   <a href="https://www.linkedin.com/in/jayesh-kawale-100806289/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -59,8 +57,25 @@
 
 ###
 
+## 🧩 My Projects
 
-![snake gif](https://raw.githubusercontent.com/Jayesh251203/Jayesh251203/output/github-contribution-grid-snake.svg)
-
+- ✏️ [**Quizzer**](https://github.com/Jayesh251203/Quizzer-Quiz-app) – Quiz app to create, take, and manage quizzes
+- 💰 [**SpendEx**](https://github.com/Jayesh251203/SpendEx) – Expense tracker app to manage daily spending
+- 💍 [**Jewellery website**](https://github.com/Jayesh251203/BHK-jewellers) – A semi e-commerce site for jewellery showcase (ongoing)
+- 🖥️ [**Portfolio website**](https://github.com/Jayesh251203/Portfolio-website) – Personal portfolio website (ongoing)
 
 ###
+
+## 📊 Coding Platforms
+
+<a href="https://leetcode.com/u/jkawale2512/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />  
+</a>
+<!-- <p> </p> -->
+<a href="https://www.codechef.com/users/jayesh_kawale" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef" />
+</a>
+
+###
+
+![snake gif](https://raw.githubusercontent.com/Jayesh251203/Jayesh251203/output/github-contribution-grid-snake.svg)
