@@ -54,11 +54,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jayesh251203/Jayesh251203/output/snake.svg" alt="Snake animation" />
 
 ###
-## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Jayesh251203/Jayesh251203/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/jayeshkawale/jayeshkawale/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
