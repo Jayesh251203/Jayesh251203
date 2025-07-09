@@ -58,7 +58,7 @@
 ###
 
 
-![snake gif](https://github.com/jayeshkawale/jayeshkawale/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Jayesh251203/Jayesh251203/output/github-contribution-grid-snake.svg)
 
 
 ###
