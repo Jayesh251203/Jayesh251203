@@ -61,6 +61,7 @@
 
 - ✏️ [**Quizzer**](https://github.com/Jayesh251203/Quizzer-Quiz-app) – Quiz app to create, take, and manage quizzes
 - 💰 [**SpendEx**](https://github.com/Jayesh251203/SpendEx) – Expense tracker app to manage daily spending
+- 🔄 [**Skill-Swap**](https://github.com/Jayesh251203/Skill-Swap) – Platform for users to connect & exchange skills (full-stack, React + Node.js)
 - 💍 [**Jewellery website**](https://github.com/Jayesh251203/BHK-jewellers) – A semi e-commerce site for jewellery showcase (ongoing)
 - 🖥️ [**Portfolio website**](https://github.com/Jayesh251203/Portfolio-website) – Personal portfolio website (ongoing)
 
