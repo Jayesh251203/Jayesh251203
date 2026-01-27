@@ -10,9 +10,9 @@
 
 ###
 
-## 🛠 Languages, Frameworks & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<!-- ## 🛠 Languages, Frameworks & Tools
+<!-- <div align="left"> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -37,16 +37,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+### -->
 
 ## 🌐 Social Platforms
 <div align="left">
   <a href="https://www.linkedin.com/in/jayesh-kawale-100806289/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <!-- <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="jkawale2512@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -57,13 +57,25 @@
 
 ###
 
-## 🧩 My Projects
+## 🧩 Featured Projects
 
-- ✏️ [**Quizzer**](https://github.com/Jayesh251203/Quizzer-Quiz-app) – Quiz app to create, take, and manage quizzes
-- 💰 [**SpendEx**](https://github.com/Jayesh251203/SpendEx) – Expense tracker app to manage daily spending
-- 🔄 [**Skill-Swap**](https://github.com/Jayesh251203/Skill-Swap) – Platform for users to connect & exchange skills (full-stack, React + Node.js)
-- 💍 [**Jewellery website**](https://github.com/Jayesh251203/BHK-jewellers) – A semi e-commerce site for jewellery showcase (ongoing)
-- 🖥️ [**Portfolio website**](https://github.com/Jayesh251203/Portfolio-website) – Personal portfolio website (ongoing)
+- ✋ [**Realtime Indian Sign Language Translator**](https://github.com/Jayesh251203/Realtime-Indian-sign-language-translation-model.-)  
+  Real-time ISL recognition using **TensorFlow + MediaPipe**, translating hand gestures into text.
+
+- 🧠 [**HirePro – AI Interview Platform**](https://github.com/Jayesh251203/)  
+  Smart hiring assistant powered by **LLaMA 3.1 (8B) & LLaMA 3.7 (80B)** for interview simulation and evaluation.
+
+- 🚘 [**Pic2Plate**](https://github.com/Jayesh251203/)  
+  Vehicle number plate recognition system using **FastAPI + Next.js**, built for real-time detection and extraction.
+
+- ✏️ [**Quizzer**](https://github.com/Jayesh251203/Quizzer-Quiz-app)  
+  Smart AI quiz platform built with **React + Node.js + MongoDB + Gemini API**.
+
+- 🔄 [**Skill-Swap**](https://github.com/Jayesh251203/Skill-Swap)  
+  Full-stack platform for users to connect and exchange skills (**React + Node.js**).
+
+- 💰 [**SpendEx**](https://github.com/Jayesh251203/SpendEx)  
+  Expense tracker app to manage daily spending and budgeting.
 
 ###
 
